@@ -1,0 +1,38 @@
+body{
+  background-image: url(https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png);
+  text-align: center !important;
+  font-style: italic !important;
+}
+
+h1 {
+  display: block;
+  background-color: white;
+  color: black;
+  opacity: 0.75;
+  font-weight: bold;
+  color: black;
+  font-size: 50px;}
+
+h2{
+  display: block;
+  background-color: white;
+  color: black;
+  opacity: 0.75;
+  color: black;
+  font-size: 35px;}
+
+button {
+  background: black;}
+
+p {
+  display: block;
+  background-color: white;
+  color: black;
+  opacity: 0.75;
+  font-size: 25px;}
+
+a {
+  color: black;}
+
+#textred {
+  color: red;}
